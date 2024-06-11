@@ -4,7 +4,7 @@ Hello.....
 - 🌱 I’m currently learning Organoid systems
 - 💞️ I’m looking to collaborate on Pharmacokinetics and Pharmacodynamics of nano-drug delivery systems
 - 📫 How to reach me contact me at keshavmoharir@gmail.com
-- 😄 Pronouns: he/hom
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am an avid reader and manuscript scanner/critique of ancient Sanskrit texts!
 
 <!---
